@@ -1,0 +1,21 @@
+[submodule "git-submodules/xds"]
+	path = git-submodules/xds
+	url = https://github.com/cncf/xds
+[submodule "git-submodules/opencensus-proto"]
+	path = git-submodules/opencensus-proto
+	url = https://github.com/census-instrumentation/opencensus-proto
+[submodule "git-submodules/opentelemetry-proto"]
+	path = git-submodules/opentelemetry-proto
+	url = https://github.com/open-telemetry/opentelemetry-proto
+[submodule "git-submodules/client_model"]
+	path = git-submodules/client_model
+	url = https://github.com/prometheus/client_model
+[submodule "git-submodules/data-plane-api"]
+	path = git-submodules/data-plane-api
+	url = https://github.com/envoyproxy/data-plane-api
+[submodule "git-submodules/protoc-gen-validate"]
+	path = git-submodules/protoc-gen-validate
+	url = https://github.com/bufbuild/protoc-gen-validate
+[submodule "git-submodules/googleapis"]
+	path = git-submodules/googleapis
+	url = https://github.com/googleapis/googleapis
